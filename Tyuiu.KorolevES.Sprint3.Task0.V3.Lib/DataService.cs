@@ -10,7 +10,7 @@ namespace Tyuiu.KorolevES.Sprint3.Task0.V3.Lib
             {
                 sumSeries += Math.Sin(i) * 0.5 * 0.5;
             }
-            return sumSeries;
+            return Math.Round(sumSeries,3);
         }
     }
 }
