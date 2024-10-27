@@ -9,7 +9,7 @@ namespace Tyuiu.KorolevES.Sprint3.Task1.V30
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Cпринт #3                                                               *");
-            Console.WriteLine("* Тема: Оператор цикла for                                                *");
+            Console.WriteLine("* Тема: Оператор цикла while                                              *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #30                                                             *");
             Console.WriteLine("* Выполнил: Королев Егор Сергеевич | АСОиУб-24-1                          *");
