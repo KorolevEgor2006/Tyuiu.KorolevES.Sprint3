@@ -22,7 +22,7 @@ namespace Tyuiu.KorolevES.Sprint3.Task7.V19
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
-            DataService ds = new DataService();
+            DataService ds = new DataService(); 
             int start = -5, end = 5;
             Console.WriteLine("Начало шага = " + start);
             Console.WriteLine("Конец шага = " + end);
