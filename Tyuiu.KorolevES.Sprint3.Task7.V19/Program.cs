@@ -8,7 +8,7 @@ namespace Tyuiu.KorolevES.Sprint3.Task7.V19
             Console.Title = "Спринт #3 | Выполнил: Королев Е. С.| АСОиУб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Cпринт #3                                                               *");
-            Console.WriteLine("* Тема: Обработка целочисленной информации                                *");
+            Console.WriteLine("* Тема: Добавление к решению итоговых проектов по спринту                 *");
             Console.WriteLine("* Задание #7                                                              *");
             Console.WriteLine("* Вариант #19                                                             *");
             Console.WriteLine("* Выполнил: Королев Егор Сергеевич | АСОиУб-24-1                          *");
